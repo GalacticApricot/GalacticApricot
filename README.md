@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**GalacticApricot/GalacticApricot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am 15 yrs old he/him. I speak English, Portuguese and Spanish. My time zone is London +00:00 GMT. I love programming.
 
-Here are some ideas to get you started:
+## Skills
+* Backend Web Development
+* Discord Bots
+* Roblox Games
+* Arduino (C++)
+* Social Media Marketing
+* Discord Server Member Retention
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+* [Roblox Developer Hub](https://discord.gg/94me9pUaYb)
+* [Human Embed Creator](https://new.galacticapricot.dev/hec)
+* [Javascript Flappy Bird Demo Game](https://new.galacticapricot.dev/wierdflappything)
+* [Python Flappy Bird Demo Game](https://github.com/GalacticApricot/Python-Flappy-Bird-Demo-Game)
+* [Discord Webhook Deleter](https://new.galacticapricot.dev/dwd)
+* [Dll injector](https://github.com/GalacticApricot/Dllject/)
+* [Minecraft Chat Logger](https://github.com/GalacticApricot/MCCHAT2DC)
+* [OpenCV X PyGame Demo](https://github.com/GalacticApricot/OpenCV-X-PyGame-Demo/)
+
+## Programming Languages I Use
+* Python
+* Javascript
+* C++ (Arduino)
+* HTML / CSS / Javascript
+* node.js
+* Lua
+* Rust
+* electron.js
+* Godot
+* Bash
+* MicroPython
+* BasicLike
+
+## Contact Me
+* Website: [https://new.galacticapricot.dev](https://new.galacticapricot.dev)
+* Discord: galacticapricot
+* Email: me@galacticapricot.dev
+* @GalacticApricot or @galacticapricot on everything else!
