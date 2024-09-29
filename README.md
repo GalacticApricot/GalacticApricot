@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am 15 yrs old he/him. I speak English, Portuguese and Spanish. My time zone is London +00:00 GMT. I love programming.
+I am 16 yrs old he/him. I speak English, Portuguese and Spanish. My time zone is London +00:00 GMT. I love programming.
 
 ## Skills
 * Backend Web Development
@@ -22,6 +22,7 @@ I am 15 yrs old he/him. I speak English, Portuguese and Spanish. My time zone is
 * [OpenCV X PyGame Demo](https://github.com/GalacticApricot/OpenCV-X-PyGame-Demo/)
 
 ## Programming Languages I Use
+* Java
 * Python
 * Javascript
 * C++ (Arduino)
