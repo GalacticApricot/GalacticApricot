@@ -69,7 +69,7 @@
 ---
 
 ## 📬 Contact Me
-- 🌐 Website: [https://new.galacticapricot.dev](https://new.galacticapricot.dev)  
+- 🌐 Website: [https://galacticapricot.dev](https://galacticapricot.dev)  
 - 💬 Discord: `galacticapricot`  
 - 📧 Email: `me@galacticapricot.dev`  
 - 🔗 Everywhere else: **@GalacticApricot** or **@galacticapricot**  
