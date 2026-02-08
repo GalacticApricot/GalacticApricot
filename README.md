@@ -30,8 +30,7 @@
 - [Text-based version of game *“Buckshot Roulette”*](https://github.com/GalacticApricot/TextShotRoulette)  
 - [Roblox Developer Hub](https://discord.gg/94me9pUaYb)  
 - [Javascript Flappy Bird Demo Game](https://galacticapricot.dev/blappyfird)  
-- [Python Flappy Bird Demo Game](https://github.com/GalacticApricot/Python-Flappy-Bird-Demo-Game)  
-- [Dll Swapper](https://github.com/GalacticApricot/Dllject/)  
+- [Python Flappy Bird Demo Game](https://github.com/GalacticApricot/Python-Flappy-Bird-Demo-Game)   
 - [Minecraft Chat Logger](https://github.com/GalacticApricot/MCCHAT2DC)  
 - [OpenCV X PyGame Demo](https://github.com/GalacticApricot/OpenCV-X-PyGame-Demo/)  
 - [Python ASCII 2D Game Engine](https://github.com/GalacticApricot/TXTBLIT)  
@@ -46,13 +45,10 @@
 - HTML / CSS / Javascript  
 - Node.js  
 - Lua  
-- Rust  
 - Electron.js  
 - Unity C#  
 - Godot  
 - Bash  
-- MicroPython  
-- BasicLike  
 
 ---
 
